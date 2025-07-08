@@ -1,12 +1,3 @@
-*🚀 Full-Stack DevOps: Node.js API with Docker, Kubernetes, GitHub Actions, Prometheus & Grafana**
-
-This title is excellent for your portfolio, GitHub repo, or resume — it shows DevOps readiness and production observability.
-
----
-
-## 📄 Final `README.md`
-
-```markdown
 # 🚀 Full-Stack DevOps: Node.js API with Docker, Kubernetes, GitHub Actions, Prometheus & Grafana
 
 This project demonstrates a fully containerized and monitored Node.js + Express API. It uses:
